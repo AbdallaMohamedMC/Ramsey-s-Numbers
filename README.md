@@ -3,7 +3,7 @@ This project is by Eng.Abdalla Mohamad, Eng.Kamal Elsawah, Eng.Osama Taha, Eng.Z
 With under supervision of Prof. Walid Gomaa.
 At Egypt-Japan University of Science and Technology (E-JUST).
 
-# **README - Ramsey Numbers Report 04**
+# **README - Ramsey Numbers**
 
 ## **Conclusion**
 
